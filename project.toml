@@ -3,4 +3,4 @@ schema-version = "0.2"
 
 [[io.buildpacks.build.env]]
 name = "BP_PROCFILE_DEFAULT_PROCESS"
-value = "your-process-name"
+value = "streamlit"
